@@ -1,5 +1,7 @@
 # vue3-my-ui
 
+learning vue template...
+
 ## Project setup
 ```
 yarn install
